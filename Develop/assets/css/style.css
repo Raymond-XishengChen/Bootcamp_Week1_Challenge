@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/* Set background color of main body to white */
 body {
     background-color: #d9dcd6;
 }
 
+/* Set class "header" settings */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +17,18 @@ body {
     color: #ffffff;
 }
 
+/* Set main heading display and font-size */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Set "seo" in heading to a different color */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/*
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,12 +36,31 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
+*/
 
-.header div ul {
-    list-style-type: none;
+.header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
 }
 
+/* Merge ul list style in to ul li */
+/* .header div ul {
+    list-style-type: none;
+} */
+
+/*
 .header div ul li {
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 25px;
+}
+*/
+
+.header nav ul li {
+    list-style-type: none;
     display: inline-block;
     margin-left: 25px;
 }
@@ -150,6 +174,8 @@ p {
     max-width: 150px;
 } */
 
+/* Merge search-engine-optimization, online-reputation-management & social-media-marketing into "content-list"
+set margin, padding, height, font, background color and color */
 .content-list {
     margin-bottom: 20px;
     padding: 50px;
@@ -186,6 +212,8 @@ p {
     color: #ffffff;
 } */
 
+/* Merge search-engine-optimization, online-reputation-management & social-media-marketing into "content-list"
+set image max-height */
 .content-list img {
     max-height: 200px;
 }
@@ -201,6 +229,9 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 } */
+
+/* Merge search-engine-optimization, online-reputation-management & social-media-marketing into "content-list"
+set margin and font size */
 .content-list h2{
     margin-bottom: 20px;
     font-size: 36px;
