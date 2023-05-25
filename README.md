@@ -29,4 +29,4 @@ The goal of the challenge is to modifiy the HTML and CSS files, consolidate and 
 [Live Application Link](http://Raymond-XishengChen.github.io/Bootcamp_Week1_Challenge)
 
 # Starter Code
-Starter code from Xander Rapstine.
+Starter code from Xander Rapstine. Source code under (Bootcamp_Week1_Challenge\Develop (Start Code))
