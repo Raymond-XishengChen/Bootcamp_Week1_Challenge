@@ -19,14 +19,14 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 # Description
+This challenge is to view the starter code, which produces a webpage with contents about "Horiseon".
 
+The goal of the challenge is to modifiy the HTML and CSS files, consolidate and simplify selectors, improve the usage of attributes, and using sematic elements to improve accessibility and get it fully functional.
 # Screenshot
-
-![Tux, the Linux mascot](/assets/images/tux.png)
-![alt text](path to image resource)
+![Full screenshot of final look](/assets/images/FullScreenshot.png)
 
 # Link
+[Live Application Link](https://duckduckgo.com)
 
-[Live Applicartion Link](https://duckduckgo.com)
-
-# Starter Code from ...
+# Starter Code
+Starter code from Xander Rapstine.
