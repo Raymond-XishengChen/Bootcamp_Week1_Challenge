@@ -23,10 +23,10 @@ This challenge is to view the starter code, which produces a webpage with conten
 
 The goal of the challenge is to modifiy the HTML and CSS files, consolidate and simplify selectors, improve the usage of attributes, and using sematic elements to improve accessibility and get it fully functional.
 # Screenshot
-![Full screenshot of final look](/assets/images/FullScreenshot.png)
+![Full screenshot of final look](/Develop/assets/images/FullScreenshot.png)
 
 # Link
-[Live Application Link](https://duckduckgo.com)
+[Live Application Link](http://Raymond-XishengChen.github.io/Bootcamp_Week1_Challenge)
 
 # Starter Code
 Starter code from Xander Rapstine.
